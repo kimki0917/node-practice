@@ -33,5 +33,11 @@ Node Practice
     1) 코어 모듈 : node에서 제공하는 모듈(fs, os, process, http, ...)
     2) 파일 모듈 : 파일 경로로 불러온 모듈안의 함수, 객체를 사용한다.
     3) npm 모듈 : npm을 통해서 node_modules 에 설치하고 사용하는 모듈
-        - 원격 배포가 된 패키지(npmjs.org)
-        - 로컬 배포가 가능
+        - 원격 배포가 된 패키지를 설치(npmjs.org)
+            npmjs.com의 npm registry 에 패키지 배포
+        - 로컬 설치
+            $npm i ../douzone-math
+
+6. helloweb-ex01: 웹애플리케이션 만들어 보기(express 프레임워크 x)
+7. helloweb-ex02: 웹애플리케이션 만들어 보기(express 프레임워크 o)
+
